@@ -146,6 +146,7 @@ a {
   padding-bottom: 32px;
 
   color: var(--primary-text-color);
+  fill: var(--primary-text-color);
 
   font-weight: 500;
   line-height: 1.14;
@@ -164,7 +165,6 @@ a {
 .mail-icon,
 .phone-icon {
   margin-right: 10px;
-  fill: var(--primary-text-color);
 }
 
 .contacts .contacts-item:last-child {
